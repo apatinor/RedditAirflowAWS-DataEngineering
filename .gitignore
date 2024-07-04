@@ -1,0 +1,7 @@
+.idea/*
+.venv/*
+./config/config.conf
+
+logs/*
+data/input/
+data/output/
